@@ -1,5 +1,11 @@
-### Hi there 👋
+### 🛠️ Kiril Panayotov Blagoev 🎨
+**`Digital Craftsman`**
 
+<!--
+<details>
+<summary><h3>Kiril's journey</h3></summary>
+hi hi hi
+-->
 <!--
 **tihawk/tihawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
