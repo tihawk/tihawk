@@ -1,4 +1,4 @@
-### 🛠️ Kiril Panayotov Blagoev 🎨
+## 🛠️ Kiril Panayotov Blagoev 🎨
 **`Digital Craftsman`**
 
 <!--
